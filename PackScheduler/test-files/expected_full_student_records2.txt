@@ -1,0 +1,3 @@
+Nguyen,Jonathan,jhnguye4,jhnguye4@ncsu.edu,pw15,15
+Jordan,Michael,mjordan,mjordan@ncsu.edu,chicago6,6
+Smith,John,jsmith,jsmith@ncsu.edu,1234,10
